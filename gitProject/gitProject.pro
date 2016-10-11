@@ -1,0 +1,2 @@
+SOURCES += \
+    helloGitHub.cpp
